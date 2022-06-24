@@ -1,0 +1,43 @@
+[
+    
+{
+    "question": "Who was the first man to walk on the moon???",
+    "choice1": "Neil Armstrong",
+    "choice2": "Yuri Alekseyevich Gagarin",
+    "choice3": "Donald Slayton",
+    "choice4": "Buzz Aldrin",
+    "answer": 1
+  },
+  {
+    "question":"What is a baby kangaroo called?",
+    "choice1": "pup",
+    "choice2": "fawn",
+    "choice3": "Joey",
+    "choice4": "foal",
+    "answer": 3
+  },
+  {
+    "question": " How many strings does a violin have?",
+    "choice1": "Three",
+    "choice2": "Six",
+    "choice3": "Two",
+    "choice4": "Four",
+    "answer": 4
+  },
+  {
+    "question": " Name the deepest ocean in the world?",
+    "choice1": "Pacific Ocean",
+    "choice2": "Indian Ocean",
+    "choice3": "Atlantic Ocean",
+    "choice4": "Arctic Ocean",
+    "answer": 1
+  },
+  {
+    "question": " Which day is celebrated as Environment Day?",
+    "choice1": "15 June",
+    "choice2": "22 April",
+    "choice3": "5 June",
+    "choice4": "8 January",
+    "answer": 3
+  }
+]
